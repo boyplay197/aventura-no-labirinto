@@ -16,8 +16,11 @@ Resolução automática (recursividade)
 
 🕹️ Controles :
 W → Cima
+
 S → Baixo
+
 A → Esquerda
+
 D → Direita
 
 🏆 Objetivo : Chegar até o ponto final F sem bater nas paredes.
