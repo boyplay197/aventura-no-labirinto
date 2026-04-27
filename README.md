@@ -15,13 +15,11 @@ W → Cima
 S → Baixo
 A → Esquerda
 D → Direita
-🏆 Objetivo
 
-Chegar até o ponto final F sem bater nas paredes.
+🏆 Objetivo : Chegar até o ponto final F sem bater nas paredes.
 
-📌 Tecnologias
+📌 Tecnologias:
 Python
 Biblioteca Rich (visual)
-📚 Observação
 
-Projeto desenvolvido para atividade acadêmica.
+📚 Observação : Projeto desenvolvido para atividade acadêmica.
