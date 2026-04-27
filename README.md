@@ -8,7 +8,9 @@ Sistema de pontuação
 Geração aleatória de labirinto
 Resolução automática (recursividade)
 ▶️ Como executar
+
 python main.py --name Henrique --use-rich
+
 🕹️ Controles
 W → Cima
 S → Baixo
