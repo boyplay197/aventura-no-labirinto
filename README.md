@@ -12,7 +12,9 @@ Geração aleatória de labirinto
 
 Resolução automática (recursividade)
 
-▶️ Como executar : python main.py --name Henrique --use-rich
+▶️ Como executar : 
+
+python main.py --name Henrique --use-rich
 
 🕹️ Controles :
 
@@ -24,9 +26,12 @@ A → Esquerda
 
 D → Direita
 
-🏆 Objetivo : Chegar até o ponto final F sem bater nas paredes.
+🏆 Objetivo : 
+
+Chegar até o ponto final F sem bater nas paredes.
 
 📌 Tecnologias:
+
 Python
 Biblioteca Rich (visual)
 
