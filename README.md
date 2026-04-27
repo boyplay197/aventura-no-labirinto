@@ -35,4 +35,6 @@ Chegar até o ponto final F sem bater nas paredes.
 Python
 Biblioteca Rich (visual)
 
-📚 Observação : Projeto desenvolvido para atividade acadêmica.
+📚 Observação : 
+
+Projeto desenvolvido para atividade acadêmica.
