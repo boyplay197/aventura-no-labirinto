@@ -14,7 +14,7 @@ Resolução automática (recursividade)
 
 ▶️ Como executar : python main.py --name Henrique --use-rich
 
-🕹️ Controles
+🕹️ Controles :
 W → Cima
 S → Baixo
 A → Esquerda
