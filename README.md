@@ -1,15 +1,25 @@
+🧩 Aventura no Labirinto
 
-# Aventura no Labirinto (v10)
+Projeto em Python onde o jogador precisa encontrar a saída de um labirinto evitando paredes.
 
-## Rodar
-```bash
-pip install -r requirements.txt
+🎮 Funcionalidades
+Movimento com teclado (W, A, S, D)
+Sistema de pontuação
+Geração aleatória de labirinto
+Resolução automática (recursividade)
+▶️ Como executar
 python main.py --name Henrique --use-rich
-```
+🕹️ Controles
+W → Cima
+S → Baixo
+A → Esquerda
+D → Direita
+🏆 Objetivo
 
-## Controles
-W A S D para mover.
+Chegar até o ponto final F sem bater nas paredes.
 
-## Extras
-- Resolver automático (recursivo)
-- Cores com rich
+📌 Tecnologias
+Python
+Biblioteca Rich (visual)
+
+Projeto desenvolvido para atividade acadêmica.
